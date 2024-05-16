@@ -1,0 +1,6 @@
+[xsimd]
+git-tree-sha1 = "a88141429a44d6dbeea158da4cd39ba82f217b99"
+
+    [[xsimd.download]]
+    sha256 = "ef91d2ccb171a2ecc2a0fb7cee3a8373d6ff8a00b810058642d8a30d06e62a21"
+    url = "https://github.com/JuliaBinaryWrappers/xsimd_jll.jl/releases/download/xsimd-v13.0.0+0/xsimd.v13.0.0.any.tar.gz"
